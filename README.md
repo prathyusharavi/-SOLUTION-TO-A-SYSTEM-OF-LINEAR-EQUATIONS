@@ -25,7 +25,10 @@ C=np.linalg.solve(A,B)
 print(C)
 ```
 ## Output: 
-![Alt text](image-1.png)
+![image](https://github.com/prathyusharavi/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/147474424/dc780b9d-4575-47fe-8179-1829233408ae)
+
+
+
 ## Result:
  thus,the solutions for the linear equations are successfully solved using python program
 
